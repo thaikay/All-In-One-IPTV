@@ -788,16 +788,6 @@ https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/nbcsports.jpg" group-title="XemTV",NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/nba.jpg" group-title="XemTV",NBA Sports
-https://fl1.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/onegolf.png" group-title="XemTV",Onegolf TV
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/billiardtv.png" group-title="XemTV",Billiard TV
-https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/strongman.jpg" group-title="XemTV",Strong Man TV
-https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-
-
 
 
 
